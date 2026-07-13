@@ -24,5 +24,5 @@ Demonstrates the full ML workflow — data preparation, train-test split, model 
 - **RMSE:** ₹6,468
 
 ## 📁 Files
-- `linear_regression_salary.py` — full commented Python script
+- `linear_regression_salary.py` — full comment done Python 
 - `*.png` — regression line, train/test split, residual plots
