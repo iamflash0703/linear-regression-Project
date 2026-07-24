@@ -1,6 +1,6 @@
 # 💰 Salary Prediction — Simple Linear Regression
 
-Built a simple linear regression model to predict salary based on years of experience, using Scikit-learn. 
+Built a simple linear regression model to predict salary based on years of experience, using Scikit-learn.
 
 ## 📌 Overview
 Demonstrates the full ML workflow — data preparation, train-test split, model training, evaluation, and residual analysis — using a synthetic salary dataset.
